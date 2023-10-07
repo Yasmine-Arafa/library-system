@@ -1,0 +1,33 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "library management system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yasmine-Arafa/library-system.git"
+  },
+  "author": "Yasmine Arafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yasmine-Arafa/library-system/issues"
+  },
+  "homepage": "https://github.com/Yasmine-Arafa/library-system#readme",
+  "dependencies": {
+    "@prisma/client": "^5.4.1",
+    "body-parser": "^1.20.2",
+    "csv-writer": "^1.6.0",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.4.1"
+  }
+}
