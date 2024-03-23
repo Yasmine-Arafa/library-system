@@ -19,5 +19,5 @@ Learn more from the [database scheme](https://drive.google.com/file/d/10lTMgx49X
 
 ## APIs
 
-[Postman collection](https://drive.google.com/file/d/105BY9eDxLE8F6a029Uss9Q0bs4xsTjWg/view?usp=sharing)
+Know more about the APIs from [Postman collection](https://drive.google.com/file/d/105BY9eDxLE8F6a029Uss9Q0bs4xsTjWg/view?usp=sharing)
 
