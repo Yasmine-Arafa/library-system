@@ -13,7 +13,7 @@ Library system manages Books, Borrowers and Borrowing process and generating rep
   Note: If there is error, just run: ' npm install -g prisma' then try again
 - Run `npm start`
 
-## Database Scheme
+## Database
 
 Learn more from the [database scheme](https://drive.google.com/file/d/10lTMgx49XbswNM6gszmso8_U12AW088j/view?usp=sharing)
 
