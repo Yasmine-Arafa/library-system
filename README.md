@@ -1,4 +1,4 @@
-# About the project
+# About
 
 Library system manages Books, Borrowers and Borrowing process and generating reports.
 
@@ -6,7 +6,7 @@ Library system manages Books, Borrowers and Borrowing process and generating rep
 
 ## How to install
 
-- [Clone the project](https://github.com/Yasmine-Arafa/library-system)
+- Clone the project, from [here](https://github.com/Yasmine-Arafa/library-system)
 - Run `npm install`
 - Create .env file in the root dir, contains: `DATABASE_URL: mysql://username:pass@host:port/db_name`
 - Run `prisma migrate dev`
